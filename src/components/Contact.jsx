@@ -17,11 +17,11 @@ const Contact = () => {
           data-aos-duration="1000"
         >
           <a
-            href="https://www.instagram.com/subahanislam7749"
+            href="https://www.linkedin.com/in/subahanali523"
             target="_blank"
             className="items"
           >
-            <FaInstagram className="icons" />
+            <CiLinkedin className="icons" />
           </a>
           <a
             href="https://www.facebook.com/subahan.islam.758"
@@ -31,12 +31,13 @@ const Contact = () => {
             <CiFacebook className="icons" />
           </a>
           <a
-            href="https://www.linkedin.com/in/subahanali523"
+            href="https://www.instagram.com/subahanislam7749"
             target="_blank"
             className="items"
           >
-            <CiLinkedin className="icons" />
+            <FaInstagram className="icons" />
           </a>
+
           <a
             href="https://x.com/Subahan1323225"
             target="_blank"
